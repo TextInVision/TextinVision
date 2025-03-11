@@ -1,0 +1,66 @@
+{
+    // ******************************
+    // Prompts Filters Configuration
+    // ******************************
+    // Available keys:
+    // - "prompts_type": e.g., "simple"
+    // - "prompt_word_length_min": integer (minimum word length) or null
+    // - "prompt_word_length_max": integer (maximum word length) or null
+    // - "prompt_char_length_min": integer (minimum character length) or null
+    // - "prompt_char_length_max": integer (maximum character length) or null
+
+  
+    // Combine with previous conditions using "and" or "or"
+    // Use null to disable this filter.
+
+
+    "prompts": {
+        "prompts_type": { "operator": "and", "value": "simple" },
+        "prompt_word_length_min": { "operator": "and", "value": null },
+        "prompt_word_length_max": { "operator": "and", "value": null },
+        "prompt_char_length_min": { "operator": "and", "value": null },
+        "prompt_char_length_max": { "operator": "and", "value": null }
+      },
+
+
+    // ******************************
+    // Texts Filters Configuration
+    // ******************************
+    // Available keys:
+    // - "oxford_category": e.g., "A1", "A2", "B1", "B2", "C1" or null
+    // - "char_length_min": integer (minimum character length) or null
+    // - "char_length_max": integer (maximum character length) or null
+    // - "word_length_min": integer (minimum word length) or null
+    // - "word_length_max": integer (maximum word length) or null
+    // - "contains_rare": true, false, or null
+    // - "contains_gibberish": true, false, or null
+    // - "contains_spec_char": true, false, or null
+    // - "contains_number": true, false, or null
+    // - "contains_sentences": true, false, or null
+    // - "LAION_freq_min": integer or null
+    // - "LAION_freq_max": integer or null
+    // - "CoCo_freq_min": integer or null
+    // - "CoCo_freq_max": integer or null
+
+
+    // Combine with previous conditions using "and" or "or" operator
+    // Use null value to disable this filter.
+
+
+    "texts": {
+        "oxford_category": { "operator": "and", "value": null },
+        "char_length_min": { "operator": "and", "value": null },
+        "char_length_max": { "operator": "and", "value": null },
+        "word_length_min": { "operator": "and", "value": 50 },
+        "word_length_max": { "operator": "and", "value": null },
+        "contains_rare": { "operator": "and", "value": false },
+        "contains_gibberish": { "operator": "and", "value": null },
+        "contains_spec_char": { "operator": "and", "value": null },
+        "contains_number": { "operator": "and", "value": null },
+        "contains_sentences": { "operator": "and", "value": null },
+        "LAION_freq_min": { "operator": "and", "value": null },
+        "LAION_freq_max": { "operator": "and", "value": null },
+        "CoCo_freq_min": { "operator": "and", "value": null },
+        "CoCo_freq_max": { "operator": "and", "value": null }
+      }
+    }
