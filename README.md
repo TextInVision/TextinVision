@@ -1,5 +1,10 @@
 # ✨TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark
 
+<a href="[https://arxiv.org/abs/2402.05195](https://arxiv.org/abs/2503.13730)">
+  <img src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
+</a>
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [File Structure](#file-structure)
