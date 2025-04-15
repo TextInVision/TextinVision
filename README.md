@@ -87,3 +87,12 @@ A sample entry in the generated JSON might look like:
     
       ```bash
    python score.py
+
+4. **BibTeX**
+
+@article{fallah2025textinvision,
+  title={TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark},
+  author={Fallah, Forouzan and Patel, Maitreya and Chatterjee, Agneet and Morariu, Vlad I and Baral, Chitta and Yang, Yezhou},
+  journal={arXiv preprint arXiv:2503.13730},
+  year={2025}
+}
