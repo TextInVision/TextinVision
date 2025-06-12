@@ -6,7 +6,9 @@
 
 ## News
 [2023.06.11]: 🎉 TextInVision received the Best Paper Award at the CVPR2025 BEAM Workshop!
+
 [2023.05.30]: 🎉 TextInVision has been selected for an oral presentation by the BEAM25 committee.
+
 [2025.04.07]: 🎉 TextInVision is accepted to CVPR 2025-BEAM Workshop.
 
 ## Table of Contents
