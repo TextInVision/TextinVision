@@ -97,9 +97,10 @@ A sample entry in the generated JSON might look like:
 4. **BibTeX**
 
 ```bibtex
-@article{fallah2025textinvision,
-  title={TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark},
-  author={Fallah, Forouzan and Patel, Maitreya and Chatterjee, Agneet and Morariu, Vlad I and Baral, Chitta and Yang, Yezhou},
-  journal={arXiv preprint arXiv:2503.13730},
+@inproceedings{fallah2025textinvision,
+  title={Textinvision: Text and prompt complexity driven visual text generation benchmark},
+  author={Fallah, Forouzan and Patel, Maitreya and Chatterjee, Agneet and Morariu, Vlad and Baral, Chitta and Yang, Yezhou},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={525--534},
   year={2025}
 }
