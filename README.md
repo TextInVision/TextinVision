@@ -7,6 +7,7 @@
 <a href="https://arxiv.org/abs/2503.13730">
   <img src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
 </a>
+
 ## News
 [2025.06.11]: 🎉 TextInVision received the Best Paper Award at the CVPR2025 BEAM Workshop!
 
