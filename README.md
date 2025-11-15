@@ -1,9 +1,12 @@
 # ✨TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark (CVPR 2025 - BEAM Workshop)
 
+<a href="https://openaccess.thecvf.com/content/CVPR2025W/BEAM/papers/Fallah_TextInVision_Text_and_Prompt_Complexity_Driven_Visual_Text_Generation_Benchmark_CVPRW_2025_paper.pdf">
+  <img src="https://img.shields.io/badge/CVPR-2025-blue" alt="CVPR 2025 Paper">
+</a>
+
 <a href="https://arxiv.org/abs/2503.13730">
   <img src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
 </a>
-
 ## News
 [2025.06.11]: 🎉 TextInVision received the Best Paper Award at the CVPR2025 BEAM Workshop!
 
